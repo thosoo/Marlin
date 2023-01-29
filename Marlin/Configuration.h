@@ -668,9 +668,9 @@
     #define DEFAULT_Kd_LIST { 114.00, 114.00 }
   #else
   // Pi3 Pro B
-  #define DEFAULT_Kp 64.42
-  #define DEFAULT_Ki 4.47
-  #define DEFAULT_Kd 232.21
+  #define DEFAULT_Kp 30.19
+  #define DEFAULT_Ki 2.22
+  #define DEFAULT_Kd 102.65
   #endif
 #endif
 
